@@ -10,3 +10,7 @@ return
 ^r::
 send, To je test AHK skripte
 return
+
+^w::
+run, "C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe"
+return
